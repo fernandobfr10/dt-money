@@ -23,6 +23,38 @@
       "category": "Educação",
       "price": 1200,
       "createdAt": "2022-08-24T00:17:17.764Z"
+    },
+    {
+      "category": "Alimentação",
+      "description": "Café da Manhã",
+      "price": 35,
+      "type": "outcome",
+      "createdAt": "2022-08-26T20:38:43.857Z",
+      "id": 4
+    },
+    {
+      "description": "Criação de App",
+      "type": "income",
+      "category": "Venda",
+      "price": 10000,
+      "createdAt": "2022-08-26T20:40:39.006Z",
+      "id": 5
+    },
+    {
+      "description": "Pela de Segunda",
+      "type": "outcome",
+      "category": "Diversão",
+      "price": 40,
+      "createdAt": "2022-08-26T20:42:02.062Z",
+      "id": 6
+    },
+    {
+      "description": "Mudança",
+      "type": "outcome",
+      "category": "Home",
+      "price": 200,
+      "createdAt": "2022-08-26T20:59:11.771Z",
+      "id": 7
     }
   ]
 }
