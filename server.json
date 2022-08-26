@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 900,
       "createdAt": "2022-08-20T00:17:17.764Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1200,
+      "createdAt": "2022-08-24T00:17:17.764Z"
     }
   ]
 }
