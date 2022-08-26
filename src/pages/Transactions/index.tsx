@@ -15,6 +15,7 @@ import { dateFormatter, priceFormatter } from '../../utils/formatter'
 
 export function Transactions() {
   const { transactions } = useContext(TransactionsContext)
+
   return (
     <div>
       <Header />
