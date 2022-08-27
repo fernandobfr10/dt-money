@@ -9,6 +9,7 @@ import { SearchForm } from './components/SearchForm'
 import { dateFormatter, priceFormatter } from '../../utils/formatter'
 
 import {
+  NoTransactionsText,
   PriceHighLight,
   TransactionsContainer,
   TransactionsTable,
@@ -28,6 +29,11 @@ export function Transactions() {
         <SearchForm />
         <TransactionsTable>
           <tbody>
+            {transactions.length <= 0 && (
+              <NoTransactionsText>
+                Sem Transações Cadastradas
+              </NoTransactionsText>
+            )}
             {transactions.map(transaction => (
               <tr key={transaction.id}>
                 <td width="50%">{transaction.description}</td>

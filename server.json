@@ -1,19 +1,19 @@
 {
   "transactions": [
     {
-      "id": 1,
-      "description": "Desenvolvimento de site",
+      "description": "Salário",
       "type": "income",
-      "category": "Venda",
-      "price": 14000,
-      "createdAt": "2022-08-14T00:17:17.764Z"
+      "category": "Trabalho",
+      "price": 4000,
+      "createdAt": "2022-08-27T02:38:49.927Z",
+      "id": 1
     },
     {
-      "description": "Compras do M6es",
+      "description": "Compras do Mês",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 1000,
-      "createdAt": "2022-08-27T02:31:00.032Z",
+      "price": 900,
+      "createdAt": "2022-08-27T02:39:05.924Z",
       "id": 2
     }
   ]
