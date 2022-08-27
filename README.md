@@ -36,6 +36,7 @@ O projeto trata-se de uma aplicação de controle financeiro, onde é possível,
 </div>
 
 <br />
+<br />
 
 <div align="center">
   <img src="./src/assets/previews/../preview/no_transactions.png" align="center" width="600px" />
